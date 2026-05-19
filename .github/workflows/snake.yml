@@ -1,6 +1,7 @@
 name: Generate Snake
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 */12 * * *"
 
@@ -9,12 +10,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v3
         with:
           github_user_name: Prachibhushan13
-          svg_out_path: dist/snake.svg
+          outputs: dist/snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v2
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
