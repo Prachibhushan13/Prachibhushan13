@@ -38,11 +38,28 @@ Interests:
 
 # ⚡ Tech Arsenal
 
-<div align="center">
+<h3 align="left">Languages and Tools:</h3>
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,mysql,kafka,nodejs,express,mongodb,redis,firebase,tailwind,git,github,docker,aws,vscode&theme=dark" />
+<p align="left">
 
-</div>
+<img src="https://skillicons.dev/icons?i=angular,arduino,aws,azure,bootstrap,c,cpp,css,docker,electron,express,firebase,flask,gcp,git,graphql,html,java,js,kafka,kubernetes,linux,mongodb,mysql,nextjs,nodejs,postgres,postman,py,pytorch,rabbitmq,react,redis,redux,ruby,rust,tailwind,tensorflow,ts,vue&theme=dark" />
+
+</p>
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chartjs/chartjs-original.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="45" height="45"/>
+
+</p>
 
 ---
 
