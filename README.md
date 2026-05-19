@@ -40,7 +40,7 @@ Interests:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,mongodb,redis,firebase,tailwind,git,github,docker,aws,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,sql,kafka,nodejs,express,mongodb,redis,firebase,tailwind,git,github,docker,aws,vscode&theme=dark" />
 
 </div>
 
